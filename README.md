@@ -1,5 +1,4 @@
-# app_my
-
+# app_my一个简单的后台管理系统
 ## Project setup
 ```
 npm install
